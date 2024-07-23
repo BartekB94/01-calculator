@@ -1,4 +1,4 @@
-
+See the live version of [Calculator](https://bartekb94.github.io/01-calculator/)
 
 ###   Funkcjonalności programu 
 - dodawanie (+)
@@ -48,7 +48,7 @@ Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me
 
 <!---
   
-See the live version of [Calculator](https://bartekb94.github.io/01-js-basics/).
+
 
     
 ### materiały, które pomogły Ci uzyskać dany efekt
